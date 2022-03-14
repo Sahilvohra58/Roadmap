@@ -8,6 +8,7 @@
 3. [Machine Learning Mastery with Python - Jason Brownlee](https://www.pdfdrive.com/machine-learning-mastery-with-python-e60678190.html)
 4. [Intermediate Python - Mohammad Yasoob](https://buildmedia.readthedocs.org/media/pdf/intermediatepythongithubio/latest/intermediatepythongithubio.pdf)
 5. [OOP in Python - Tutorials Point](https://www.tutorialspoint.com/object_oriented_python/object_oriented_python_tutorial.pdf)
+6. [Best Python Books for Beginners & Advanced Programmers](https://hackr.io/blog/best-python-books-for-beginners-and-advanced-programmers)
 
 ### 1.2 Machine Learning
 1. [Getting Started with Applied Machine Learning - Jason Brownlee](https://machinelearningmastery.com/start-here/)
